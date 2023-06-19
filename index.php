@@ -1,3 +1,4 @@
+<?php session_start() ?>
 <?php include "./src/data.php" ?>
 <!DOCTYPE html>
 <html lang="en">
